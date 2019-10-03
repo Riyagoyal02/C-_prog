@@ -2,7 +2,7 @@
 #include<stdio.h>
 
 using namespace std;
-
+/* class student is here */
 class student
 {
     char name[20];
